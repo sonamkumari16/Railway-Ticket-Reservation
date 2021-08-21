@@ -1,0 +1,14 @@
+.note{
+    position: absolute;
+    top:0px;
+    width: 7%;
+    height: 59%;
+    margin-top: 180px;
+    padding-top: 30px;
+    margin-left: 900px;
+    padding-left: 500px;
+    opacity: 0.8;
+    background-color:sienna;
+    border: 2px solid black;
+}
+
